@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259239535878",
+    "project_id": "reezma-ai-chat-2026",
+    "storage_bucket": "reezma-ai-chat-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259239535878:android:0fb0d856a69e256ff7ea87",
+        "android_client_info": {
+          "package_name": "com.example.ai_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLG2x9KeQ3LiTjW4ZM0VKAxKCobk7gns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
